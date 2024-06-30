@@ -42,3 +42,6 @@ body {
 .remaining-counter {
   color: red;
 }
+.total-counter {
+  color: blue;
+}
